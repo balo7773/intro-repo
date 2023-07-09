@@ -1,3 +1,3 @@
 #Getting Started
 
-Learning from FreeCodeCamp.
+Learning from FreeCodeCamp!
